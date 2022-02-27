@@ -14,15 +14,15 @@ Please find the answers to all the questions as follows:
 
 1. How long did you spend on the coding test? What would you add to your solution if you had more time?
     - I spent 4 hours on the code which includes the time taken to think of a logical possible solution from variety of solutions I was contemplating on. 
-    - I think I did the task to the best of my knowledge, but i will still try out better methods using less procesing time if possible. 
+    - I think I did the task to the best of my knowledge, but I will still try out better methods using less procesing time if possible. 
 
 2. Why did you choose PHP as your main programming language?
-    - It is easier to setup a project with php.
-    - It has alarge developers community where all the problems that could possibly arise has already been solved. 
+    - It is easier to setup a project with PHP.
+    - It has a large developers community where all the problems that could possibly arise has already been solved. 
     - It is supported by all deployment servers.
 
 3. What is your favourite thing about your most familiar PHP framework (Laravel / Symfony etc)?
-    - My favorurite framework is Laravel.
+    - My favourite framework is Laravel.
     - The documentation is elaborate enough to enable a developer work with laravel without having to watch a youtube tutorial.
     - It handles default security , giving developers more time to focus on the code/logic.
     - It has provided a lot of simple to use packages.
