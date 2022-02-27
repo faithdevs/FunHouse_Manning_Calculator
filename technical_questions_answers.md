@@ -1,9 +1,12 @@
  **Title**   Technical Questions Response                                         
  
  **Date created**  February 26th 2022
+ 
  **Project**   __FunHouse__ technical test
+ 
  **Author**  Faith Ugbeshe
- **Contact**  ugbeshefTest
+ 
+ **Contact**  ugbeshefaith@gmail.com
 
 ## Technical Answers
 
